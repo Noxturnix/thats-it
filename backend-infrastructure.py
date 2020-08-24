@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+
+# This project is libre and licensed under the terms of the
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE, version 1.1,
+# as published by Noxturnix in August 2020. See the LICENSE or COPYING file or
+# https://noxt.cf/wtfpl-v1_1/ for more details.
+
 from __future__ import print_function
 import os
 
